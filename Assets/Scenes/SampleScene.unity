@@ -156,7 +156,7 @@ MonoBehaviour:
   _ballRigidbody: {fileID: 408025547}
   _ballParticleSystem: {fileID: 1695117629}
   _ballTriggerController: {fileID: 408025549}
-  _forcePower: 10
+  _forcePower: 30
   _scoreText: {fileID: 336918383}
   _startText: {fileID: 496663888}
 --- !u!4 &241400224
